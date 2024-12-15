@@ -1,0 +1,336 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/25.0.1 Chrome/128.0.6613.186 Electron/32.2.6 Safari/537.36" version="25.0.1">
+  <diagram name="Страница — 1" id="7KlCaL_Iz-oyAgRGpEq3">
+    <mxGraphModel dx="4412" dy="3267" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iE_FP5GmG72MTn179R6p-1" value="Mindmap" style="swimlane;startSize=20;horizontal=1;containerType=tree;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="-80" width="2680" height="1920" as="geometry" />
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-6" value="Безопасность данных" style="ellipse;whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry x="1237.5" y="795" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-27" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" source="iE_FP5GmG72MTn179R6p-6" target="iE_FP5GmG72MTn179R6p-28" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-28" value="Публичные&lt;div&gt;данные&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry x="1027.5" y="585" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-29" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" source="iE_FP5GmG72MTn179R6p-6" target="iE_FP5GmG72MTn179R6p-30" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-30" value="Секретные&lt;div&gt;данные&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry x="1027.5" y="1015" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-31" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" source="iE_FP5GmG72MTn179R6p-6" target="iE_FP5GmG72MTn179R6p-32" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-32" value="Конфиденциальные&lt;div&gt;данные&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry x="1437.5" y="1015" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-33" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" source="iE_FP5GmG72MTn179R6p-6" target="iE_FP5GmG72MTn179R6p-34" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-34" value="Внутренние данные" style="ellipse;whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry x="1427.5" y="585" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-35" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" target="iE_FP5GmG72MTn179R6p-36" source="iE_FP5GmG72MTn179R6p-30" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1197.5" y="995" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-36" value="Технические учётные записи, сертификаты, ключи" style="ellipse;whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry x="697.5" y="975" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-37" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" target="iE_FP5GmG72MTn179R6p-38" source="iE_FP5GmG72MTn179R6p-30" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1197.5" y="995" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-38" value="Данные для осуществления платежей&lt;div&gt;(креды и адреса платёжных шлюзов)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry x="682.5" y="1225" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-39" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" target="iE_FP5GmG72MTn179R6p-40" source="iE_FP5GmG72MTn179R6p-36" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="987.5" y="1085" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-40" value="Утечка данных&lt;div&gt;(критический)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry x="457.5" y="865" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-41" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" target="iE_FP5GmG72MTn179R6p-42" source="iE_FP5GmG72MTn179R6p-36" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="987.5" y="1085" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-42" value="Потеря данных&lt;br&gt;(значительный)" style="ellipse;whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry x="457.5" y="1035" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-43" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" target="iE_FP5GmG72MTn179R6p-44" source="iE_FP5GmG72MTn179R6p-40" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="657.5" y="1050" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-44" value="Злоумышленник&amp;nbsp; может получить доступ к сервисам и или БД, что в свою очередь может приветси к убыткам и нарушению работы системы, а так же нарушению законодательства&amp;nbsp;&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry x="137.5" y="840" width="230" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-45" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" target="iE_FP5GmG72MTn179R6p-46" source="iE_FP5GmG72MTn179R6p-42" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="657.5" y="1050" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-46" value="При потере данных будет простой системы или узла пока потерянные данные не будут замещены" style="ellipse;whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry x="157.5" y="1025" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-47" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" target="iE_FP5GmG72MTn179R6p-48" source="iE_FP5GmG72MTn179R6p-38" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="987.5" y="1085" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-48" value="Утечка данных&lt;div&gt;(критический)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry x="467.5" y="1245" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-49" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" target="iE_FP5GmG72MTn179R6p-50" source="iE_FP5GmG72MTn179R6p-38" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="987.5" y="1085" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-50" value="Потеря данных&lt;br&gt;(значительный)" style="ellipse;whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry x="467.5" y="1385" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-51" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" target="iE_FP5GmG72MTn179R6p-52" source="iE_FP5GmG72MTn179R6p-50" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="642.5" y="1325" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-52" value="Временная невозможность проведения оплаты через шлюз" style="ellipse;whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry x="187.5" y="1385" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-53" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" target="iE_FP5GmG72MTn179R6p-54" source="iE_FP5GmG72MTn179R6p-48" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="642.5" y="1325" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-54" value="Злоумышленник может отменить\заморозить совершённые покупки или бронь,&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry x="167.5" y="1235" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-55" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" target="iE_FP5GmG72MTn179R6p-56" source="iE_FP5GmG72MTn179R6p-28" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1197.5" y="195" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-56" value="Данные о объектах, адреса, цены и др." style="ellipse;whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry x="707.5" y="585" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-59" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" target="iE_FP5GmG72MTn179R6p-60" source="iE_FP5GmG72MTn179R6p-56" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="987.5" y="-5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-60" value="Потеря данных&lt;br&gt;(незначительный)" style="ellipse;whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry x="467.5" y="415" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-61" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" target="iE_FP5GmG72MTn179R6p-62" source="iE_FP5GmG72MTn179R6p-60" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="667.5" y="-5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-62" value="Данные можно восстановить, но будет нанесён репутационный ущерб" style="ellipse;whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry x="172.5" y="410" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-63" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" target="iE_FP5GmG72MTn179R6p-64" source="iE_FP5GmG72MTn179R6p-56" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="987.5" y="-5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-64" value="Искажение данных&lt;br&gt;(критический)" style="ellipse;whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry x="467.5" y="595" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-65" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" target="iE_FP5GmG72MTn179R6p-66" source="iE_FP5GmG72MTn179R6p-64" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="667.5" y="-5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-66" value="Могут быть изменены адреса, цены и акутальный статус по объектам, это может нанести репутационные убытки, введение в заблуждение и нарушение законодательства" style="ellipse;whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry x="152.5" y="555" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-67" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" target="iE_FP5GmG72MTn179R6p-68" source="iE_FP5GmG72MTn179R6p-34" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1297.5" y="195" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-68" value="Логи" style="ellipse;whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry x="1767.5" y="585" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-69" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" target="iE_FP5GmG72MTn179R6p-70" source="iE_FP5GmG72MTn179R6p-32" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1297.5" y="195" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-70" value="Персональные данные" style="ellipse;whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry x="1767.5" y="1015" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-71" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" target="iE_FP5GmG72MTn179R6p-72" source="iE_FP5GmG72MTn179R6p-32" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1297.5" y="195" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-72" value="Данные по заключенным&amp;nbsp;&lt;div&gt;сделкам\собственникам&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry x="1757.5" y="1175" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-75" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" target="iE_FP5GmG72MTn179R6p-76" source="iE_FP5GmG72MTn179R6p-70" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1527.5" y="425" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-76" value="Утечка данных&lt;div&gt;(критический)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry x="2047.5" y="855" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-77" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" target="iE_FP5GmG72MTn179R6p-78" source="iE_FP5GmG72MTn179R6p-72" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1527.5" y="425" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-78" value="Утечка данных&lt;div&gt;(критический)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry x="2037.5" y="1175" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-79" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" target="iE_FP5GmG72MTn179R6p-80" source="iE_FP5GmG72MTn179R6p-70" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1527.5" y="425" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-80" value="Потеря данных&lt;br&gt;(значительный)" style="ellipse;whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry x="2047.5" y="1035" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-81" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" target="iE_FP5GmG72MTn179R6p-82" source="iE_FP5GmG72MTn179R6p-72" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1527.5" y="425" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-82" value="Потеря данных&lt;br&gt;(значительный)" style="ellipse;whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry x="2037.5" y="1335" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-83" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" target="iE_FP5GmG72MTn179R6p-84" source="iE_FP5GmG72MTn179R6p-72" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1527.5" y="425" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-84" value="Искажение данных&lt;div&gt;(критический)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry x="2037.5" y="1495" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-87" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" target="iE_FP5GmG72MTn179R6p-88" source="iE_FP5GmG72MTn179R6p-76" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1857.5" y="425" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-88" value="Репутационные убытки, введение в заблуждение и нарушение законодательства" style="ellipse;whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry x="2327.5" y="840" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-89" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" target="iE_FP5GmG72MTn179R6p-90" source="iE_FP5GmG72MTn179R6p-80" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1857.5" y="425" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-90" value="Репутационные потери, потеря доступа с сервису, ущерб для последующего анализа данных" style="ellipse;whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry x="2337.5" y="1020" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-91" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" target="iE_FP5GmG72MTn179R6p-92" source="iE_FP5GmG72MTn179R6p-78" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1867.5" y="595" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-92" value="Репутационные убытки, введение в заблуждение и нарушение законодательства" style="ellipse;whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry x="2342.5" y="1170" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-93" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" target="iE_FP5GmG72MTn179R6p-94" source="iE_FP5GmG72MTn179R6p-82" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1867.5" y="595" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-94" value="Репутационные потери, потеря доступа с сервису, ущерб для последующего анализа данных" style="ellipse;whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry x="2337.5" y="1330" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-95" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" target="iE_FP5GmG72MTn179R6p-96" source="iE_FP5GmG72MTn179R6p-84" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1867.5" y="595" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-96" value="Репутационные потери, потеря доступа с сервису, ущерб для последующего анализа данных" style="ellipse;whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry x="2337.5" y="1490" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-97" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" target="iE_FP5GmG72MTn179R6p-98" source="iE_FP5GmG72MTn179R6p-34" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1297.5" y="195" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-98" value="Данные о объектах, адреса, цены и др.&lt;div&gt;(аналитика)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry x="1767.5" y="395" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-99" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" target="iE_FP5GmG72MTn179R6p-100" source="iE_FP5GmG72MTn179R6p-68" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1517.5" y="-5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-100" value="Утечка данных&lt;div&gt;(критический)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry x="2047.5" y="585" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-101" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" target="iE_FP5GmG72MTn179R6p-102" source="iE_FP5GmG72MTn179R6p-68" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1517.5" y="-5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-102" value="Потеря данных&lt;br&gt;(значительный)" style="ellipse;whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry x="2047.5" y="705" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-103" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" target="iE_FP5GmG72MTn179R6p-104" source="iE_FP5GmG72MTn179R6p-100" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1857.5" y="-5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-104" value="Репутационные потери, если логи не деперсализованы то возможна, потеря доступа к сервису, финансовые потери,&lt;div&gt;нарушение законодательства&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry x="2302.5" y="570" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-105" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" target="iE_FP5GmG72MTn179R6p-106" source="iE_FP5GmG72MTn179R6p-102" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1857.5" y="-5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-106" value="Есть вероятность потерять данные по проведённыем транзакциям и заключенным сделакам. (если будет необходимость)" style="ellipse;whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry x="2327.5" y="685" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-107" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" target="iE_FP5GmG72MTn179R6p-108" source="iE_FP5GmG72MTn179R6p-98" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1517.5" y="-5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-108" value="Потеря данных&lt;br&gt;(незначительный)" style="ellipse;whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry x="2047.5" y="395" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-109" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" target="iE_FP5GmG72MTn179R6p-110" source="iE_FP5GmG72MTn179R6p-98" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1517.5" y="-5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-110" value="Утечка данных&lt;div&gt;(критический)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry x="2047.5" y="275" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-111" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" target="iE_FP5GmG72MTn179R6p-112" source="iE_FP5GmG72MTn179R6p-110" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1857.5" y="-195" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-112" value="Репутационные убытки, введение в заблуждение" style="ellipse;whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry x="2327.5" y="260" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-113" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" target="iE_FP5GmG72MTn179R6p-114" source="iE_FP5GmG72MTn179R6p-108" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1857.5" y="-195" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iE_FP5GmG72MTn179R6p-114" value="Можно будет построить новые модели на данных&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="iE_FP5GmG72MTn179R6p-1">
+          <mxGeometry x="2357.5" y="395" width="130" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
